@@ -1,29 +1,61 @@
 # Data Engineering Portfolio
 
-Hi, I'm Polina 👋  
-I'm learning Data Engineering and building a portfolio with SQL, data cleaning, data modeling, and analytics projects.
+Hi, I'm Polina 👋
 
-## Projects
+I'm transitioning from 6+ years of React Native development into Data Engineering.
 
-### 1. ActiVR Data Cleaning
-
-SQL project focused on cleaning and analyzing event data for a virtual reality company.
-
-**Skills:** SQL, data cleaning, JOINs, GROUP BY, COUNT DISTINCT, aggregations
-
-[View project](projects/01-activr-data-cleaning)
+This repository contains my learning projects completed while studying SQL, Data Warehousing, Snowflake, Python, and Data Engineering concepts.
 
 ---
 
-## Skills in Progress
+## Projects
 
-- SQL
-- Data Cleaning
-- Data Warehousing
-- ETL / ELT
-- Snowflake SQL
-- Python for Data Engineering
+### ActiVR Data Cleaning
 
-## Goal
+Data cleaning and analysis project completed in DataCamp DataLab.
 
-My goal is to grow into a Junior Data Engineer role by building practical projects and documenting my learning process.
+**Topics covered:**
+
+* Data Cleaning
+* SQL Queries
+* JOINs
+* Filtering
+* Aggregations
+* GROUP BY
+* COUNT DISTINCT
+
+📂 Project Folder: `projects/01-activr-data-cleaning`
+
+---
+
+## Skills
+
+### SQL
+
+* SELECT
+* WHERE
+* GROUP BY
+* HAVING
+* JOINs
+* Window Functions
+* CTEs
+
+### Data Engineering
+
+* Data Warehousing
+* ETL / ELT
+* Data Modeling
+* OLAP / OLTP
+* Snowflake
+
+### Currently Learning
+
+* Python for Data Engineering
+* Data Pipelines
+* Cloud Technologies
+
+---
+
+## Career Goal
+
+My goal is to become a Data Engineer and build reliable data pipelines, warehouses, and analytics solutions.
